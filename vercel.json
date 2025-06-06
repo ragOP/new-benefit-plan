@@ -15,6 +15,11 @@
         "destination": "/span.html"
     
       },
+        {
+        "source": "/spansfast",
+        "destination": "/spanfast.html"
+    
+      },
       {
         "source": "/engchat1",
         "destination": "/engchat1.html"
