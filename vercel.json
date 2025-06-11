@@ -41,7 +41,7 @@
     
       },
       {
-        "source":"benefits",
+        "source": "/benefits",
         "destination": "/lander/index.html"
       },
         {
