@@ -40,6 +40,10 @@
         "destination": "/fab.html"
     
       },
+      {
+        "source":"benefits",
+        "destination": "/lander/index.html"
+      },
         {
         "source": "/qualifyfb",
         "destination": "/facebook.html"
