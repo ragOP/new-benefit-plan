@@ -58,6 +58,10 @@
         "source": "/",
         "destination": "/index.html"
        
+      },
+      {
+        "source": "/spfe1",
+        "destination": "/spaf.html"
       }
     ]
   }
