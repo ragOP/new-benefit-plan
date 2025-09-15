@@ -1,67 +1,9 @@
 {
     "rewrites": [
       {
-        "source": "/engfe1",
-        "destination": "/first.html"
-    
-      },
-           {
-        "source": "/engfe25k",
-        "destination": "/second.html"
-    
-      },
-           {
-        "source": "/spansf1",
-        "destination": "/span.html"
-    
-      },
-        {
-        "source": "/spansfast",
-        "destination": "/spanfast.html"
-    
-      },
-      {
-        "source": "/engchat1",
-        "destination": "/engchat1.html"
-    
-      },
-      {
-        "source": "/engchat25k",
-        "destination": "/engchat25k.html"
-    
-      },
-      {
         "source": "/engsf1",
         "destination": "/latest.html"
     
-      },
-         {
-        "source": "/qualify",
-        "destination": "/fab.html"
-    
-      },
-      {
-        "source": "/benefits",
-        "destination": "/lander/index.html"
-      },
-        {
-        "source": "/qualifyfb",
-        "destination": "/facebook.html"
-    
-      },
-      {
-        "source": "/engsf2",
-        "destination": "/friday.html"
-    
-      },
-      {
-        "source": "/",
-        "destination": "/index.html"
-       
-      },
-      {
-        "source": "/spfe1",
-        "destination": "/spaf.html"
       }
     ]
   }
